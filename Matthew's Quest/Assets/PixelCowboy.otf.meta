@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 201f2ec29204e49a9884b8948bb5350d
+timeCreated: 1526330089
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 'Pixel Cowboy '
+  fontNames:
+  - 'Pixel Cowboy '
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
